@@ -17,7 +17,7 @@ namespace MC2to4.Controllers;
     [HttpGet]
     [Route("GetBoth/{myName}/{myTime}")]
 
-    public string GetTime(string myName, string myTime)
+    public string GetBoth(string myName, string myTime)
     {
         return _timeService.GetBoth(myName, myTime);
     }
