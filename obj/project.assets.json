@@ -469,24 +469,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hulkf\\.nuget\\packages\\": {}
+    "/Users/Jerrod/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hulkf\\Documents\\CODING\\2ndLevel\\MC2to4\\MC2to4.csproj",
+      "projectUniqueName": "/Users/Jerrod/Documents/CodeStackAcademy/GitRepository/MiniChallenge2to4/MC2to4.csproj",
       "projectName": "MC2to4",
-      "projectPath": "C:\\Users\\hulkf\\Documents\\CODING\\2ndLevel\\MC2to4\\MC2to4.csproj",
-      "packagesPath": "C:\\Users\\hulkf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hulkf\\Documents\\CODING\\2ndLevel\\MC2to4\\obj\\",
+      "projectPath": "/Users/Jerrod/Documents/CodeStackAcademy/GitRepository/MiniChallenge2to4/MC2to4.csproj",
+      "packagesPath": "/Users/Jerrod/.nuget/packages/",
+      "outputPath": "/Users/Jerrod/Documents/CodeStackAcademy/GitRepository/MiniChallenge2to4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hulkf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/Jerrod/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -533,7 +534,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
